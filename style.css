@@ -153,3 +153,73 @@ i{
 #othersway {
     margin-top: 30px;
 }
+footer{
+    width: 100%;
+    height: fit-content;
+    background-color: #9FA1EF;
+    font-family: sans-serif;
+}
+.titles{
+    float: left;
+    line-height: 1.6rem;
+    margin: 20px 40px;
+}
+.clearfix{
+    clear: both;
+}
+.titles ul{
+    list-style: none;
+}
+h5{
+    color: #ffffff;
+}
+.nav-footer{
+    color:white;
+    font-weight: 100;
+    text-decoration: none;
+    font-size: 0.8em;
+}
+#footertext{
+    font-size: 0.75em;
+    color: white;
+    font-weight: 100;
+}
+.footerlast{
+    background-color: #070347;
+    padding: 10px 50px;
+}
+.color_orange{
+    color: #F35858;
+}
+.icons i{
+    display: inline-block;
+    margin-right: 5px;
+}
+.icons #facebook{
+    width: 10px;
+    height: 20px;
+}
+.icons #twitter {
+    width: 35px;
+    height: 20px;
+}
+.icons #instagram{
+    width: 20px;
+    height: 20px;
+}
+.icons #linkedin{
+    width: 22px;
+    height: 20px;
+}
+#footerbtn{
+    margin-top: 20px;
+    border: none;
+    padding: 10px 40px;
+    background-color: #070347;
+    border-radius: 8px;
+    color: white;
+}
+#footerbtn:hover{
+    background-color: #FAAF40;
+
+}
